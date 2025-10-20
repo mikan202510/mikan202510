@@ -21,8 +21,8 @@ Pythonを中心としたWebアプリケーション開発に注力し、業務�
 
 ## 現在の取り組み
 - Django REST Frameworkを用いたAPI設計の最適化  
-- Java・Spring Bootの基礎学習  
-- GitHubを活用したドキュメンテーション・バージョン管理の標準化  
+- GitHubを活用したドキュメンテーション・バージョン管理の標準化
+- Java・Spring Bootの基礎学習
 
 ---
 
