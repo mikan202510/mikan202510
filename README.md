@@ -21,7 +21,6 @@ Pythonを中心としたWebアプリケーション開発に注力し、業務�
 
 ## 現在の取り組み
 - Django REST Frameworkを用いたAPI設計の最適化  
-- Streamlit Cloudを利用したデモ公開環境の整備  
 - Java・Spring Bootの基礎学習  
 - GitHubを活用したドキュメンテーション・バージョン管理の標準化  
 
