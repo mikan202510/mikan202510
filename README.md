@@ -1,16 +1,35 @@
-## Hi there 👋
+# mikan202510 ｜ Python / Django / Streamlit
 
-<!--
-**mikan202510/mikan202510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 概要
+公衆衛生分野における実務経験を経て、現在はITエンジニアを目指しています。  
+Pythonを中心としたWebアプリケーション開発に注力し、業務効率化・データ可視化・勤怠管理などの実践的テーマに取り組んでいます。  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 技術スタック
+| 分野 | 技術 |
+|------|------|
+| 言語 | Python（Django, Streamlit, Flask）, Java（基礎） |
+| フレームワーク / ツール | Django REST Framework, Pandas, Altair, Plotly, GitHub |
+| データベース | SQLite, PostgreSQL |
+| 開発環境 | Windows 10 / VSCode / PowerShell |
+| その他 | Markdown, HTML / CSS, 環境構築, 仮想環境運用 (.venv) |
+
+---
+
+## 現在の取り組み
+- Django REST Frameworkを用いたAPI設計の最適化  
+- Streamlit Cloudを利用したデモ公開環境の整備  
+- Java・Spring Bootの基礎学習  
+- GitHubを活用したドキュメンテーション・バージョン管理の標準化  
+
+---
+
+## 今後の目標
+- Webアプリケーションの要件定義から運用まで一貫して担える技術力の確立  
+- チーム開発環境でのコードレビュー・CI/CD経験の獲得  
+- 医療・福祉分野におけるITソリューション開発への応用  
+
+---
