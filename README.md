@@ -11,8 +11,8 @@ Pythonを中心としたWebアプリケーション開発に注力し、業務�
 ## 技術スタック
 | 分野 | 技術 |
 |------|------|
-| 言語 | Python（Django, Streamlit, Flask）, Java（基礎） |
-| フレームワーク / ツール | Django REST Framework, Pandas, Altair, Plotly, GitHub |
+| 言語 | Python（Django, Streamlit）, Java（学習中） |
+| フレームワーク / ツール | Django REST Framework, Pandas, Altair, GitHub |
 | データベース | SQLite, PostgreSQL |
 | 開発環境 | Windows 10 / VSCode / PowerShell |
 | その他 | Markdown, HTML / CSS, 環境構築, 仮想環境運用 (.venv) |
